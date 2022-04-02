@@ -22,4 +22,6 @@ app = FastAPI()
 
 @app.get("/")
 async def root():
-    return {"message": "Hello world!"}
+    return {"сообщение": "Программа для тренировок"}
+
+# Запуск приложения, запустить в терминале: uvicorn main:app --reload

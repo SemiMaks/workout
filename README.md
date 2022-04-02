@@ -7,5 +7,11 @@
 * брусья
 * шведская стенка
 * свежий воздух
-
+***
+Просмотр документации (Swagger UI, ReDoc):
+* http://127.0.0.1:8000/docs
+* http://127.0.0.1:8000/redoc
+***
+OpenAPI JSON Schema
+* http://127.0.0.1:8000/openapi.json
 
